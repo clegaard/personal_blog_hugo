@@ -45,8 +45,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: 'recursive'
+          submodules: "recursive"
           ssh-key: ${{ secrets.SSH_KEY }}
+      - name: Manually fetch the subrepos
+        run: |
+          git submodule update --init --recursive
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
