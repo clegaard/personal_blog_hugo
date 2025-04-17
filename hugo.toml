@@ -37,13 +37,13 @@ home = ["HTML", "RSS"]
 page = ["HTML"]
 section = ["HTML"]
 
-[imaging]
-quality = 75
-resampleFilter = "CatmullRom"
-[imaging.exif]
-disableDate = false
-disableLatLong = true
-includeFields = "ImageDescription|Orientation"
+# [imaging]
+# quality = 75
+# resampleFilter = "CatmullRom"
+# [imaging.exif]
+# disableDate = false
+# disableLatLong = true
+# includeFields = "ImageDescription|Orientation"
 
 [caches]
 [caches.images]
