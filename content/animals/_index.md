@@ -1,6 +1,6 @@
 ---
 description: This is the "Animals" album. It has two sub-albums.
-keywords: [Animals, Photos, Underwater, Dogs]
+keywords: [Animals, Photos, Underwater, Mammals, Nature]
 title: Wildlife
 weight: 1
 menus: "main"
