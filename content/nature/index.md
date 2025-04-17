@@ -10,7 +10,7 @@ params:
   sort_order: desc
   sort_by: Name # Exif.Date
 resources:
-  - src: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
+  - src: fireflies.png
     params:
       cover: true
 ---
