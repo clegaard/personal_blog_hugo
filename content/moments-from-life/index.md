@@ -1,5 +1,3 @@
-Here's some people
-
 ---
 date: 2023-01-12
 title: Moments from Life
