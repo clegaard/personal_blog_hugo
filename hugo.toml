@@ -45,9 +45,9 @@ disableDate = false
 disableLatLong = true
 includeFields = "ImageDescription|Orientation"
 
-# [caches]
-# [caches.images]
-# dir = ':cacheDir/images'
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
 
 # [menu]
 # [[menu.footer]]
