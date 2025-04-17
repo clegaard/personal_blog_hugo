@@ -6,7 +6,7 @@ languageCode = "en"
 timeZone = "Europe/Berlin"
 timeout = "120s"
 title = "Gallery"
-theme = "Gallery"
+theme = "gallery"
 
 [params]
 defaultTheme = "dark"
